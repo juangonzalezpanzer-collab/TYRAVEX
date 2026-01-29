@@ -63,7 +63,7 @@ const operatorStore = useOperatorStore()
   font-size: var(--font-size-xl);
   font-weight: var(--font-weight-bold);
   letter-spacing: 0.1em;
-  color: var(--color-text-primary);
+  color: white;
   font-family: var(--font-family-mono);
 }
 

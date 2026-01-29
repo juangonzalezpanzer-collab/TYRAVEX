@@ -3,10 +3,10 @@
     <div class="flex items-center justify-between">
       <!-- Logo -->
       <div class="flex items-center space-x-3">
-        <div class="w-8 h-8 bg-gradient-to-br from-tyravex-accent-cyan to-tyravex-accent-blue rounded flex items-center justify-center">
+        <div class="w-8 h-8 bg-gradient-to-br from-purple-500 to-violet-600 rounded flex items-center justify-center">
           <span class="text-tyravex-bg-primary font-bold text-sm">T</span>
         </div>
-        <h1 class="text-xl font-bold text-gradient-blue tracking-wide">TYRAVEX</h1>
+        <h1 class="text-xl font-bold text-white tracking-wide">TYRAVEX</h1>
       </div>
 
       <!-- Status & Time -->
